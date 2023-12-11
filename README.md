@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project!
+BookBot git project! Testing Git functionality!
